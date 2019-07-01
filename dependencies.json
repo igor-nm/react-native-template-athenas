@@ -1,0 +1,6 @@
+{
+    "react-navigation": "latest",
+    "styled-components": "latest",
+    "react-native-vector-icons": "latest",
+    "react-native-gesture-handler": "latest"
+}
