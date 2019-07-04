@@ -12,15 +12,15 @@ export default function Home() {
                 <Icon size={36} color={Theme.white} name="phone-iphone" />
             </Row>
 
-            <Welcome>{`Welcome to Athena's template!`}</Welcome>
+            <Welcome>{"Welcome to Athena's template!"}</Welcome>
 
             <Text style={{ marginBottom: 20 }}>
-                This is it main screen in your application :D
+                {"This is it main screen in your application :D"}
             </Text>
 
-            <Text>You may edit screen on file:</Text>
+            <Text>{"You may edit screen on file:"}</Text>
             <Text style={{ fontWeight: "bold" }}>
-                src/screens/main/index.js
+                {"src/screens/main/index.js"}
             </Text>
         </Container>
     );
