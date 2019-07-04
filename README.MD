@@ -1,4 +1,13 @@
+<!--
+*** Thanks you to be here. If you have some suggestions that may improve still more
+*** make a fork and do a pull request or open a issue with tag "Suggestion".
+*** Let's go run this awesome project :D
+-->
+
+<!-- PROJECT SHIELDS -->
+
 [![npm](https://img.shields.io/npm/v/react-native-template-athenas.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-athenas)
+[![NPM Downloads](https://img.shields.io/npm/dm/react-native-template-athenas.svg)](https://www.npmjs.com/package/react-native-template-athenas)
 [![GitHub last commit](https://img.shields.io/github/last-commit/igor-nm/react-native-template-athenas.svg)](https://github.com/igor-nm/react-native-template-athenas/commits/master)
 [![GitHub issues](https://img.shields.io/github/issues-raw/igor-nm/react-native-template-athenas.svg)](https://github.com/igor-nm/react-native-template-athenas/issues)
 [![License](https://img.shields.io/github/license/igor-nm/react-native-template-athenas.svg)](https://github.com/igor-nm/react-native-template-athenas/blob/master/LICENSE)
@@ -6,9 +15,13 @@
 
 <h1 align="center" style="margin: auto">Athenas</h1>
 
+<!-- ABOUT PROJECT -->
+
 ### About
 
 This project exists because it became necessary to have agility and speed in the production of the native reaction projects. However we knows that configure and installation of libs on project start may have some complexity and sometimes errors that that end up disrupting the flow of development and bringing some delay on project.
+
+<!-- TABLE OF CONTENTS -->
 
 ### Template content (libraries)
 
@@ -29,7 +42,9 @@ Here is what was used to create this template:
     -   [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import) - _ESLint_ plugin with specific rules to help in imports validation;
     -   [eslint-plugin-react-native](https://github.com/Intellicode/eslint-plugin-react-native) - _ESLint_ plugin with specific rules to react-native;
 
-## Getting Start
+<!-- GETTING STARTED -->
+
+## Getting Started
 
 #### Requirements
 
@@ -156,6 +171,8 @@ This section will have instructions case you wanna edit template, explaining fol
 
 -   **package.json** - Unlike common projects, this file has the necessary settings for publishing the Template in NPM.
 
+<!-- CONTRIBUITION -->
+
 ## Contribution
 
 Contributions are what make the open source community an incredible place to learn, inspire and create. Any contributions you make will be greatly appreciated.
@@ -166,6 +183,8 @@ Contributions are what make the open source community an incredible place to lea
 4. Commit your changes (`git commit -m 'Adding an incredible feature!'`)
 5. Push Branch (`git push origin feature/NewFeature`)
 6. Open a Pull Request
+
+<!-- LICENSE -->
 
 ## License
 

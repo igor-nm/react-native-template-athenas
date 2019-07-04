@@ -1,13 +1,13 @@
-import Theme from '~/components/Theme';
-import { Dimensions } from 'react-native';
-import styled from 'styled-components/native';
+import Theme from "~/components/Theme";
+import { Dimensions } from "react-native";
+import styled from "styled-components/native";
 
-const { height } = Dimensions.get('screen');
+const { height } = Dimensions.get("screen");
 
 export const Container = styled.View`
     flex: 1;
     align-items: center;
-    padding-top: ${height* 0.20}px;
+    padding-top: ${height * 0.2}px;
     background-color: ${Theme.primary};
 `;
 

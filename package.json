@@ -1,8 +1,8 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "name": "react-native-template-athenas",
     "license": "MIT",
-    "description": "Basic template to applications React Native.",
+    "description": "Basic template to React Native applications.",
     "author": "Igor Martucelli <martucelli.igor@gmail.com>",
     "repository": {
         "type": "git",

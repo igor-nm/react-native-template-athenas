@@ -1,7 +1,7 @@
-import React from 'react';
-import Routes from '~/routes';
-import Theme from '~/components/Theme';
-import { StatusBar } from 'react-native';
+import React from "react";
+import Routes from "~/routes";
+import Theme from "~/components/Theme";
+import { StatusBar } from "react-native";
 
 const App = () => (
     <>
